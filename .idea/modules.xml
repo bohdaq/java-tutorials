@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-practical-sorting/java-practical-sorting.iml" filepath="$PROJECT_DIR$/java-practical-sorting/java-practical-sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-valueof/java-valueof.iml" filepath="$PROJECT_DIR$/java-valueof/java-valueof.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string-array-modify/string-array-modify.iml" filepath="$PROJECT_DIR$/string-array-modify/string-array-modify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tutorials.iml" filepath="$PROJECT_DIR$/.idea/tutorials.iml" />
+    </modules>
+  </component>
+</project>
